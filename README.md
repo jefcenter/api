@@ -1,5 +1,5 @@
 # API Kewilayahan 
-REST Webservice data kewilayahan Indonesia dengan JSON. API tanpa authentikasi terdapat pada direktori <u>noauth/api/kewilayahan</u> terdiri dari :<br>
+REST Webservice kewilayahan Indonesia dengan JSON. API tanpa authentikasi terdapat pada direktori <u>noauth/api/kewilayahan</u> terdiri dari :<br>
 <ol>
   <li>file koneksi.php : File koneksi berisi informasi koneksi ke database mysql, silahkan sesuaikan sendiri.</li>
   <li>file index.php : File index berisi fungsi-fungsi query data kewilayahan.</li>
